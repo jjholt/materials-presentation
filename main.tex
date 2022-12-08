@@ -1,0 +1,29 @@
+\documentclass[final]{beamer}
+\hypersetup{pdfpagemode=FullScreen}
+\input{settings.tex}
+
+\title{Development of sophisticated prostheses}
+\subtitle{Hard-wired epimysial recordings using an intraosseous transcutaneous amputation prosthesis (ITAP)}
+\author{Yixuan Wang, Cuiyueyue Hao, Jonathan Holt}
+% \institute[Biomedical Engineering]{Dept. of Medical Physics \& Biomedical Engineering}
+\date{\today}
+
+\addbibresource{bibliography.bib}
+\setbeamerfont{footnote}{size=\tiny} %reduce the size of the footnote citation
+\setbeamertemplate{bibliography item}{\insertbiblabel}
+
+\begin{document}
+
+	\begin{frame}
+		\titlepage
+	\end{frame}
+
+	\subimport{src/}{itap.tex}
+	\subimport{src/}{emg.tex}
+	\subimport{src/}{conclusions.tex}
+	\subimport{src/}{opinions.tex}
+
+	\begin{frame}
+		% Empty end frame
+	\end{frame}
+\end{document}
