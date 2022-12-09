@@ -2346,16 +2346,17 @@
     <bcf:citekey order="1">MeulenbeltHenkEJ2011SPot</bcf:citekey>
     <bcf:citekey order="2">Fitzpatrick2011ITAP</bcf:citekey>
     <bcf:citekey order="3">KANG20101130</bcf:citekey>
-    <bcf:citekey order="4">ClementeFrancesco2017TaHM</bcf:citekey>
-    <bcf:citekey order="4">ÖrgelMarcus2021Oito</bcf:citekey>
-    <bcf:citekey order="5">KANG20101130</bcf:citekey>
-    <bcf:citekey order="6">Li2017Branemark</bcf:citekey>
-    <bcf:citekey order="7">MeulenbeltHenkEJ2011SPot</bcf:citekey>
-    <bcf:citekey order="8">Fitzpatrick2011ITAP</bcf:citekey>
-    <bcf:citekey order="9">KANG20101130</bcf:citekey>
-    <bcf:citekey order="10">ClementeFrancesco2017TaHM</bcf:citekey>
-    <bcf:citekey order="11">ÖrgelMarcus2021Oito</bcf:citekey>
-    <bcf:citekey order="12">Li2017Branemark</bcf:citekey>
+    <bcf:citekey order="4">KANG20101130</bcf:citekey>
+    <bcf:citekey order="5">ClementeFrancesco2017TaHM</bcf:citekey>
+    <bcf:citekey order="5">ÖrgelMarcus2021Oito</bcf:citekey>
+    <bcf:citekey order="6">KANG20101130</bcf:citekey>
+    <bcf:citekey order="7">Li2017Branemark</bcf:citekey>
+    <bcf:citekey order="8">MeulenbeltHenkEJ2011SPot</bcf:citekey>
+    <bcf:citekey order="9">Fitzpatrick2011ITAP</bcf:citekey>
+    <bcf:citekey order="10">KANG20101130</bcf:citekey>
+    <bcf:citekey order="11">ClementeFrancesco2017TaHM</bcf:citekey>
+    <bcf:citekey order="12">ÖrgelMarcus2021Oito</bcf:citekey>
+    <bcf:citekey order="13">Li2017Branemark</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
